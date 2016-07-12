@@ -31,4 +31,14 @@ To bring some consistency to this community development effort, the following pr
 | **Release Versioning**    | [Semantic Versioning](http://semver.org/) |
 
 **Note:**  As this is a community development effort, these principles are open for discussion and revision.  If you would like to suggest a revision, removal or addition to these principles, please create a [New issue](https://github.com/CiscoDevNet/spark-python-packages-team/issues).
- 
+
+
+
+## Project References
+
+### Original individual-effort Python Spark Packages
+  * https://github.com/brbester/pyCiscoSpark
+  * https://github.com/chopperz1979/CiscoSpark
+  * https://github.com/cmlccie/cmlCiscoSparkSDK
+  * https://github.com/shenning00/pyCiscoSparkAPI
+  * https://github.com/jeokrohn/cisco_spark
